@@ -1,5 +1,5 @@
 # api-reuso
-API RESTful com PHP Slim Framework
+API RESTful com PHP Slim Framework para atividade do módulo básico da disciplina de Engenharia de Reuso do MPES 2018.1
 
 ## Instalando
 ```shell
