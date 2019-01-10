@@ -8,7 +8,7 @@ Alan Cunha, Alberto Medeiros, Allan David,Fernando Gonçalves,Fernando Moresco, 
 ```shell
 git clone https://github.com/regisperez/api-reuso.git
 ```
-Instale as dependencias com composer
+Instale as dependências com composer
 ```shell
 composer install
 ```
