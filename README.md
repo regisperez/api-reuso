@@ -1,4 +1,4 @@
-# api-php-slim-framework
+# api-reuso
 API RESTful com PHP Slim Framework
 
 ## Instalando
