@@ -2,13 +2,7 @@
 API RESTful com PHP Slim Framework para atividade do módulo básico da disciplina de Engenharia de Reuso do MPES 2018.1
 
 ## Membros da Fábrica de Software Infinity
-Alan Cunha
-Alberto Medeiros
-Allan David
-Fernando Gonçalves
-Fernando Moresco
-Régis Perez
-Tiago Lacerda
+Alan Cunha, Alberto Medeiros, Allan David,Fernando Gonçalves,Fernando Moresco, Régis Perez,Tiago Lacerda
 
 ## Instalando
 ```shell
